@@ -1,4 +1,4 @@
-# Book Collection CRUD Application
+# Book Dirctory
 This is a CRUD (Create, Read, Update, Delete) application built using React, Node.js, and MongoDB Atlas. It allows users to manage a collection of books, including adding new books, viewing existing books, updating book information, and deleting books from the collection.
 
 ## Features
@@ -23,7 +23,7 @@ This is a CRUD (Create, Read, Update, Delete) application built using React, Nod
 
 1. Clone the repository: 
 ```
-git clone https://github.com/raj-71/bookCollectionCRUD.git
+git clone https://github.com/devs18/book directory.git
 ```
 2. Navigate to the project directory:
 ```
